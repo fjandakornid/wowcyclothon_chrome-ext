@@ -9,7 +9,11 @@
 
   "content_scripts": [{
     "matches": ["*://siminn.is/lendingarsidur/wowcyclothon"],
-    "js": ["jquery-3.3.1.min.js", "content.js"],
+    "js": ["jquery-3.3.1.min.js", "kdTree.min.js", "content.js"],
     "css": ["styles.css"]
-  }]
+  }],
+
+  "web_accessible_resources": [
+    "route.json"
+  ]
 }
