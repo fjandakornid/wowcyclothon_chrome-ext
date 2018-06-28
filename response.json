@@ -1,0 +1,1485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.7041035,
+          64.4288345
+        ]
+      },
+      "properties": {
+        "name": "Declan Brassil",
+        "driving_status": "parked_with_alert",
+        "icon": "pin-circle.png",
+        "updated_at": "2018-06-28T08:28:28",
+        "hopurclass": "flokkur1",
+        "hopur": "Solo",
+        "infobox": "<p>Nafn: Declan Brassil</p><p>Flokkur: Einstaklingur</p><p>\u00c1heitan\u00famer: 1001</p><p>Uppf\u00e6rt: 2018-06-28 08:28:28</p>",
+        "markerid": 695
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.6317841,
+          64.9616496
+        ]
+      },
+      "properties": {
+        "name": "El\u00edn V. Magn\u00fasd\u00f3ttir",
+        "driving_status": "parked",
+        "icon": "pin-circle.png",
+        "updated_at": "2018-06-28T08:13:38",
+        "hopurclass": "flokkur1",
+        "hopur": "Solo",
+        "infobox": "<p>Nafn: El\u00edn V. Magn\u00fasd\u00f3ttir</p><p>Flokkur: Einstaklingur</p><p>\u00c1heitan\u00famer: 1003</p><p>Uppf\u00e6rt: 2018-06-28 08:13:38</p>",
+        "markerid": 638
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.5918455,
+          64.4182821
+        ]
+      },
+      "properties": {
+        "name": "HringGla\u00f0ur",
+        "driving_status": "parked",
+        "icon": "pin-circle.png",
+        "updated_at": "2018-06-28T09:34:16",
+        "hopurclass": "flokkur1",
+        "hopur": "Solo",
+        "infobox": "<p>Nafn: HringGla\u00f0ur</p><p>Flokkur: Einstaklingur</p><p>\u00c1heitan\u00famer: 1004</p><p>Uppf\u00e6rt: 2018-06-28 09:34:16</p>",
+        "markerid": 657
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.343915,
+          65.644357
+        ]
+      },
+      "properties": {
+        "name": "Airport Direct",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:02",
+        "hopurclass": "flokkur2",
+        "hopur": "A Flokkur",
+        "infobox": "<p>Nafn: Airport Direct</p><p>Flokkur: 4 manna li\u00f0</p><p>\u00c1heitan\u00famer: 2001</p><p>Uppf\u00e6rt: 2018-06-28 09:58:02</p>",
+        "markerid": 703
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.341571,
+          65.6440051
+        ]
+      },
+      "properties": {
+        "name": "Har\u00f0kjarna",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:07",
+        "hopurclass": "flokkur2",
+        "hopur": "A Flokkur",
+        "infobox": "<p>Nafn: Har\u00f0kjarna</p><p>Flokkur: 4 manna li\u00f0</p><p>\u00c1heitan\u00famer: 2004</p><p>Uppf\u00e6rt: 2018-06-28 09:58:07</p>",
+        "markerid": 628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2601246,
+          65.6397218
+        ]
+      },
+      "properties": {
+        "name": "KeyNatura",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:57:29",
+        "hopurclass": "flokkur2",
+        "hopur": "A Flokkur",
+        "infobox": "<p>Nafn: KeyNatura</p><p>Flokkur: 4 manna li\u00f0</p><p>\u00c1heitan\u00famer: 2005</p><p>Uppf\u00e6rt: 2018-06-28 09:57:29</p>",
+        "markerid": 658
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.256249,
+          65.6363753
+        ]
+      },
+      "properties": {
+        "name": "L\u00f3kal Stelpur",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:11",
+        "hopurclass": "flokkur2",
+        "hopur": "A Flokkur",
+        "infobox": "<p>Nafn: L\u00f3kal Stelpur</p><p>Flokkur: 4 manna li\u00f0</p><p>\u00c1heitan\u00famer: 2006</p><p>Uppf\u00e6rt: 2018-06-28 09:58:11</p>",
+        "markerid": 701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.350874,
+          64.232976
+        ]
+      },
+      "properties": {
+        "name": "NCC",
+        "driving_status": "parked",
+        "icon": "pin-circle.png",
+        "updated_at": "2018-06-27T19:04:05",
+        "hopurclass": "flokkur2",
+        "hopur": "A Flokkur",
+        "infobox": "<p>Nafn: NCC</p><p>Flokkur: 4 manna li\u00f0</p><p>\u00c1heitan\u00famer: 2008</p><p>Uppf\u00e6rt: 2018-06-27 19:04:05</p>",
+        "markerid": 696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.7299728,
+          65.64907
+        ]
+      },
+      "properties": {
+        "name": "Team \u00cdslandsbanki Quattro",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:12",
+        "hopurclass": "flokkur2",
+        "hopur": "A Flokkur",
+        "infobox": "<p>Nafn: Team \u00cdslandsbanki Quattro</p><p>Flokkur: 4 manna li\u00f0</p><p>\u00c1heitan\u00famer: 2010</p><p>Uppf\u00e6rt: 2018-06-28 09:58:12</p>",
+        "markerid": 715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2573055,
+          65.6372466
+        ]
+      },
+      "properties": {
+        "name": "TVG - Zimsen",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:08",
+        "hopurclass": "flokkur2",
+        "hopur": "A Flokkur",
+        "infobox": "<p>Nafn: TVG - Zimsen</p><p>Flokkur: 4 manna li\u00f0</p><p>\u00c1heitan\u00famer: 2011</p><p>Uppf\u00e6rt: 2018-06-28 09:58:08</p>",
+        "markerid": 648
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.8299248,
+          65.7305183
+        ]
+      },
+      "properties": {
+        "name": "Borgun",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:06",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Borgun</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3005</p><p>Uppf\u00e6rt: 2018-06-28 09:58:06</p>",
+        "markerid": 636
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.369736,
+          65.7187608
+        ]
+      },
+      "properties": {
+        "name": "BYKO",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:14",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: BYKO</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3007</p><p>Uppf\u00e6rt: 2018-06-28 09:58:14</p>",
+        "markerid": 675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.915334,
+          64.099913
+        ]
+      },
+      "properties": {
+        "name": "Cintamani",
+        "driving_status": "parked",
+        "icon": "pin-circle.png",
+        "updated_at": "2018-06-27T13:15:47",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Cintamani</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3008</p><p>Uppf\u00e6rt: 2018-06-27 13:15:47</p>",
+        "markerid": 697
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5642991,
+          65.6927301
+        ]
+      },
+      "properties": {
+        "name": "Decode X",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:10",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Decode X</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3009</p><p>Uppf\u00e6rt: 2018-06-28 09:58:10</p>",
+        "markerid": 644
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.5185136,
+          65.658837
+        ]
+      },
+      "properties": {
+        "name": "Decode XY",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:08",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Decode XY</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3010</p><p>Uppf\u00e6rt: 2018-06-28 09:58:08</p>",
+        "markerid": 646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3531806,
+          65.698338
+        ]
+      },
+      "properties": {
+        "name": "Driftwood Racing",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:13",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Driftwood Racing</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3011</p><p>Uppf\u00e6rt: 2018-06-28 09:58:13</p>",
+        "markerid": 723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0743225,
+          65.7427183
+        ]
+      },
+      "properties": {
+        "name": "Grettir",
+        "driving_status": "parked",
+        "icon": "pin-circle.png",
+        "updated_at": "2018-06-28T09:56:23",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Grettir</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3014</p><p>Uppf\u00e6rt: 2018-06-28 09:56:23</p>",
+        "markerid": 689
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.8801343,
+          65.7446756
+        ]
+      },
+      "properties": {
+        "name": "\u00cdslandsbanki",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:14",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: \u00cdslandsbanki</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3018</p><p>Uppf\u00e6rt: 2018-06-28 09:58:14</p>",
+        "markerid": 713
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0210668,
+          65.813976
+        ]
+      },
+      "properties": {
+        "name": "\u00cdSOR",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:10",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: \u00cdSOR</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3019</p><p>Uppf\u00e6rt: 2018-06-28 09:58:10</p>",
+        "markerid": 712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5633303,
+          65.6925336
+        ]
+      },
+      "properties": {
+        "name": "KEX BREWING",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:13",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: KEX BREWING</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3021</p><p>Uppf\u00e6rt: 2018-06-28 09:58:13</p>",
+        "markerid": 699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.517092,
+          65.6586818
+        ]
+      },
+      "properties": {
+        "name": "Kolibri Cycling",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:13",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Kolibri Cycling</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3022</p><p>Uppf\u00e6rt: 2018-06-28 09:58:13</p>",
+        "markerid": 706
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.9507831,
+          65.801741
+        ]
+      },
+      "properties": {
+        "name": "LS Retail",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:57:27",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: LS Retail</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3025</p><p>Uppf\u00e6rt: 2018-06-28 09:57:27</p>",
+        "markerid": 666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5153206,
+          65.6880865
+        ]
+      },
+      "properties": {
+        "name": "Mannvit",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:15",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Mannvit</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3026</p><p>Uppf\u00e6rt: 2018-06-28 09:58:15</p>",
+        "markerid": 693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.8058388,
+          65.7255448
+        ]
+      },
+      "properties": {
+        "name": "N1 Jaxlar",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:06",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: N1 Jaxlar</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3029</p><p>Uppf\u00e6rt: 2018-06-28 09:58:06</p>",
+        "markerid": 660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4669585,
+          65.7227103
+        ]
+      },
+      "properties": {
+        "name": "Samv\u00f6r",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:07",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Samv\u00f6r</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3031</p><p>Uppf\u00e6rt: 2018-06-28 09:58:07</p>",
+        "markerid": 679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2536795,
+          65.6342183
+        ]
+      },
+      "properties": {
+        "name": "S\u00edminn",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:14",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: S\u00edminn</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3033</p><p>Uppf\u00e6rt: 2018-06-28 09:58:14</p>",
+        "markerid": 627
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.695359,
+          65.4680286
+        ]
+      },
+      "properties": {
+        "name": "So, You Wanna do a Relay?",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:12",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: So, You Wanna do a Relay?</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3034</p><p>Uppf\u00e6rt: 2018-06-28 09:58:12</p>",
+        "markerid": 682
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.8817866,
+          65.7452671
+        ]
+      },
+      "properties": {
+        "name": "SORPA - Heavy Metan",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:15",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: SORPA - Heavy Metan</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3035</p><p>Uppf\u00e6rt: 2018-06-28 09:58:15</p>",
+        "markerid": 652
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.9102081,
+          65.7463941
+        ]
+      },
+      "properties": {
+        "name": "Team Blue Lagoon",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:03",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Team Blue Lagoon</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3039</p><p>Uppf\u00e6rt: 2018-06-28 09:58:03</p>",
+        "markerid": 680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0743308,
+          65.7436776
+        ]
+      },
+      "properties": {
+        "name": "Team Fritz",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:16",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Team Fritz</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3042</p><p>Uppf\u00e6rt: 2018-06-28 09:58:16</p>",
+        "markerid": 719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0676156,
+          65.7143201
+        ]
+      },
+      "properties": {
+        "name": "Team HEKLA",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:15",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Team HEKLA</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3043</p><p>Uppf\u00e6rt: 2018-06-28 09:58:15</p>",
+        "markerid": 700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.9132566,
+          65.7546726
+        ]
+      },
+      "properties": {
+        "name": "Team HS Orka",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:15",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Team HS Orka</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3044</p><p>Uppf\u00e6rt: 2018-06-28 09:58:15</p>",
+        "markerid": 649
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5550785,
+          65.690866
+        ]
+      },
+      "properties": {
+        "name": "Team Kvika",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:10",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Team Kvika</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3045</p><p>Uppf\u00e6rt: 2018-06-28 09:58:10</p>",
+        "markerid": 639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3528718,
+          65.6981393
+        ]
+      },
+      "properties": {
+        "name": "Team Oddi",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:08",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Team Oddi</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3046</p><p>Uppf\u00e6rt: 2018-06-28 09:58:08</p>",
+        "markerid": 656
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4976095,
+          65.7004883
+        ]
+      },
+      "properties": {
+        "name": "Team Origo",
+        "driving_status": "waiting_for_data",
+        "icon": "pin-circle.png",
+        "updated_at": "2018-06-28T09:55:10",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Team Origo</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3048</p><p>Uppf\u00e6rt: 2018-06-28 09:55:10</p>",
+        "markerid": 721
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.1383988,
+          65.5856428
+        ]
+      },
+      "properties": {
+        "name": "Team P\u00f3sturinn",
+        "driving_status": "parked",
+        "icon": "pin-circle.png",
+        "updated_at": "2018-06-28T09:57:09",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Team P\u00f3sturinn</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3049</p><p>Uppf\u00e6rt: 2018-06-28 09:57:09</p>",
+        "markerid": 674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0207393,
+          65.8139656
+        ]
+      },
+      "properties": {
+        "name": "TEAM REYKJAV\u00cdK",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:08",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: TEAM REYKJAV\u00cdK</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3050</p><p>Uppf\u00e6rt: 2018-06-28 09:58:08</p>",
+        "markerid": 716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0665556,
+          65.710775
+        ]
+      },
+      "properties": {
+        "name": "Team Sabre Iceland",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:05",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Team Sabre Iceland</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3051</p><p>Uppf\u00e6rt: 2018-06-28 09:58:05</p>",
+        "markerid": 642
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.1494956,
+          65.5865763
+        ]
+      },
+      "properties": {
+        "name": "Team Samskip",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:10",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Team Samskip</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3052</p><p>Uppf\u00e6rt: 2018-06-28 09:58:10</p>",
+        "markerid": 659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.259549,
+          65.6391511
+        ]
+      },
+      "properties": {
+        "name": "Team Verk\u00eds",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:16",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Team Verk\u00eds</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3055</p><p>Uppf\u00e6rt: 2018-06-28 09:58:16</p>",
+        "markerid": 662
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0539391,
+          65.8038608
+        ]
+      },
+      "properties": {
+        "name": "Tern Systems",
+        "driving_status": "unplugged",
+        "icon": "pin-circle.png",
+        "updated_at": "2018-06-28T08:35:36",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Tern Systems</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3057</p><p>Uppf\u00e6rt: 2018-06-28 08:35:36</p>",
+        "markerid": 670
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5155893,
+          65.6880038
+        ]
+      },
+      "properties": {
+        "name": "Veitur",
+        "driving_status": "parked",
+        "icon": "pin-circle.png",
+        "updated_at": "2018-06-28T09:57:20",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Veitur</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3063</p><p>Uppf\u00e6rt: 2018-06-28 09:57:20</p>",
+        "markerid": 691
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5716726,
+          65.6941551
+        ]
+      },
+      "properties": {
+        "name": "Verk\u00edsli\u00f0i\u00f0",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:07",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Verk\u00edsli\u00f0i\u00f0</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3064</p><p>Uppf\u00e6rt: 2018-06-28 09:58:07</p>",
+        "markerid": 664
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.746725,
+          65.7142446
+        ]
+      },
+      "properties": {
+        "name": "WOW labs",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:12",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: WOW labs</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3065</p><p>Uppf\u00e6rt: 2018-06-28 09:58:12</p>",
+        "markerid": 668
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.7961465,
+          65.7224515
+        ]
+      },
+      "properties": {
+        "name": "WuXi NextCODE 10A",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:09",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: WuXi NextCODE 10A</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3066</p><p>Uppf\u00e6rt: 2018-06-28 09:58:09</p>",
+        "markerid": 708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.7959235,
+          65.7223776
+        ]
+      },
+      "properties": {
+        "name": "WuXi NextCODE 10B",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:16",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: WuXi NextCODE 10B</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3067</p><p>Uppf\u00e6rt: 2018-06-28 09:58:16</p>",
+        "markerid": 709
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3137618,
+          65.6658528
+        ]
+      },
+      "properties": {
+        "name": "\u00deG verk",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:16",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: \u00deG verk</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3070</p><p>Uppf\u00e6rt: 2018-06-28 09:58:16</p>",
+        "markerid": 677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.3594261,
+          64.015327
+        ]
+      },
+      "properties": {
+        "name": "Hj\u00f3lakraftur 1",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:11",
+        "hopurclass": "flokkur4",
+        "hopur": "Hjolakraftur",
+        "infobox": "<p>Nafn: Hj\u00f3lakraftur 1</p><p>Flokkur: Hj\u00f3lakraftur</p><p>\u00c1heitan\u00famer: 4001</p><p>Uppf\u00e6rt: 2018-06-28 09:58:11</p>",
+        "markerid": 653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.257288,
+          65.6372395
+        ]
+      },
+      "properties": {
+        "name": "Cartrawler",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:11",
+        "hopurclass": "flokkur2",
+        "hopur": "A Flokkur",
+        "infobox": "<p>Nafn: Cartrawler</p><p>Flokkur: 4 manna li\u00f0</p><p>\u00c1heitan\u00famer: 2002</p><p>Uppf\u00e6rt: 2018-06-28 09:58:11</p>",
+        "markerid": 750
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3497231,
+          65.6924495
+        ]
+      },
+      "properties": {
+        "name": "MapSoIce",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:16",
+        "hopurclass": "flokkur2",
+        "hopur": "A Flokkur",
+        "infobox": "<p>Nafn: MapSoIce</p><p>Flokkur: 4 manna li\u00f0</p><p>\u00c1heitan\u00famer: 2007</p><p>Uppf\u00e6rt: 2018-06-28 09:58:16</p>",
+        "markerid": 756
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.344405,
+          65.6443913
+        ]
+      },
+      "properties": {
+        "name": "Team Cannondale G\u00c1P Elite",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:03",
+        "hopurclass": "flokkur2",
+        "hopur": "A Flokkur",
+        "infobox": "<p>Nafn: Team Cannondale G\u00c1P Elite</p><p>Flokkur: 4 manna li\u00f0</p><p>\u00c1heitan\u00famer: 2009</p><p>Uppf\u00e6rt: 2018-06-28 09:58:03</p>",
+        "markerid": 746
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0746803,
+          65.7503483
+        ]
+      },
+      "properties": {
+        "name": "A4",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:10",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: A4</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3001</p><p>Uppf\u00e6rt: 2018-06-28 09:58:10</p>",
+        "markerid": 737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3139798,
+          65.6659688
+        ]
+      },
+      "properties": {
+        "name": "Airport Associates",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:16",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Airport Associates</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3002</p><p>Uppf\u00e6rt: 2018-06-28 09:58:16</p>",
+        "markerid": 767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4649133,
+          65.7236903
+        ]
+      },
+      "properties": {
+        "name": "Arion banki",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:16",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Arion banki</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3004</p><p>Uppf\u00e6rt: 2018-06-28 09:58:16</p>",
+        "markerid": 752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2570745,
+          65.6370628
+        ]
+      },
+      "properties": {
+        "name": "Brammer \u00cdsland",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:18",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Brammer \u00cdsland</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3006</p><p>Uppf\u00e6rt: 2018-06-28 09:58:18</p>",
+        "markerid": 738
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.0618841,
+          65.6148456
+        ]
+      },
+      "properties": {
+        "name": "CFXY Team Securitas",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:06",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: CFXY Team Securitas</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3069</p><p>Uppf\u00e6rt: 2018-06-28 09:58:06</p>",
+        "markerid": 684
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.334066,
+          65.5439031
+        ]
+      },
+      "properties": {
+        "name": "Saddlesaurus Wrecks",
+        "driving_status": "parked",
+        "icon": "pin-circle.png",
+        "updated_at": "2018-06-28T07:50:10",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Saddlesaurus Wrecks</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3030</p><p>Uppf\u00e6rt: 2018-06-28 07:50:10</p>",
+        "markerid": 784
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.0129431,
+          65.5596368
+        ]
+      },
+      "properties": {
+        "name": "Sensa",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:11",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Sensa</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3032</p><p>Uppf\u00e6rt: 2018-06-28 09:58:11</p>",
+        "markerid": 687
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4759276,
+          65.710013
+        ]
+      },
+      "properties": {
+        "name": "Team Ark\u00eds",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:13",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Team Ark\u00eds</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3038</p><p>Uppf\u00e6rt: 2018-06-28 09:58:13</p>",
+        "markerid": 761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.01373,
+          65.5599043
+        ]
+      },
+      "properties": {
+        "name": "Team Skoda",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:09",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Team Skoda</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3053</p><p>Uppf\u00e6rt: 2018-06-28 09:58:09</p>",
+        "markerid": 777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.472769,
+          65.713692
+        ]
+      },
+      "properties": {
+        "name": "TF-WOW",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:12",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: TF-WOW</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3058</p><p>Uppf\u00e6rt: 2018-06-28 09:58:12</p>",
+        "markerid": 782
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.9840415,
+          65.812213
+        ]
+      },
+      "properties": {
+        "name": "Granite State Grinders",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:14",
+        "hopurclass": "flokkur2",
+        "hopur": "A Flokkur",
+        "infobox": "<p>Nafn: Granite State Grinders</p><p>Flokkur: 4 manna li\u00f0</p><p>\u00c1heitan\u00famer: 2003</p><p>Uppf\u00e6rt: 2018-06-28 09:58:14</p>",
+        "markerid": 760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.0620876,
+          65.6148451
+        ]
+      },
+      "properties": {
+        "name": "Hj\u00f3labr\u00e6\u00f0ur - J\u00c1VERK",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:57:59",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Hj\u00f3labr\u00e6\u00f0ur - J\u00c1VERK</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3015</p><p>Uppf\u00e6rt: 2018-06-28 09:57:59</p>",
+        "markerid": 748
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3689331,
+          65.717764
+        ]
+      },
+      "properties": {
+        "name": "Jar\u00f0boranir",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:18",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Jar\u00f0boranir</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3020</p><p>Uppf\u00e6rt: 2018-06-28 09:58:18</p>",
+        "markerid": 740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4740413,
+          65.7118681
+        ]
+      },
+      "properties": {
+        "name": "Landsvirkjun",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:10",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Landsvirkjun</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3024</p><p>Uppf\u00e6rt: 2018-06-28 09:58:10</p>",
+        "markerid": 629
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4761533,
+          65.7097046
+        ]
+      },
+      "properties": {
+        "name": "S\u00fdn",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:10",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: S\u00fdn</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3036</p><p>Uppf\u00e6rt: 2018-06-28 09:58:10</p>",
+        "markerid": 728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.8239165,
+          65.7292868
+        ]
+      },
+      "properties": {
+        "name": "Team V\u00ednb\u00fa\u00f0in",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:13",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Team V\u00ednb\u00fa\u00f0in</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3056</p><p>Uppf\u00e6rt: 2018-06-28 09:58:13</p>",
+        "markerid": 730
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.936211,
+          64.1487633
+        ]
+      },
+      "properties": {
+        "name": "TIBCO SVB",
+        "driving_status": "inactive",
+        "icon": "pin-circle.png",
+        "updated_at": "2018-06-27T17:59:30",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: TIBCO SVB</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3060</p><p>Uppf\u00e6rt: 2018-06-27 17:59:30</p>",
+        "markerid": 765
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.0736415,
+          65.7551841
+        ]
+      },
+      "properties": {
+        "name": "TruStrength Cycling",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:17",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: TruStrength Cycling</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3061</p><p>Uppf\u00e6rt: 2018-06-28 09:58:17</p>",
+        "markerid": 754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.1540291,
+          65.5878188
+        ]
+      },
+      "properties": {
+        "name": "ON",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:14",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: ON</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3071</p><p>Uppf\u00e6rt: 2018-06-28 09:58:14</p>",
+        "markerid": 744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.2515205,
+          65.6318173
+        ]
+      },
+      "properties": {
+        "name": "Landsbankinn hf.",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:12",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Landsbankinn hf.</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3023</p><p>Uppf\u00e6rt: 2018-06-28 09:58:12</p>",
+        "markerid": 726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.9144236,
+          65.756903
+        ]
+      },
+      "properties": {
+        "name": "Meniga Cycling Club",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:16",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Meniga Cycling Club</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3027</p><p>Uppf\u00e6rt: 2018-06-28 09:58:16</p>",
+        "markerid": 641
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.6828485,
+          65.709312
+        ]
+      },
+      "properties": {
+        "name": "TVG Xpress",
+        "driving_status": "parked",
+        "icon": "pin-circle.png",
+        "updated_at": "2018-06-28T08:44:10",
+        "hopurclass": "flokkur2",
+        "hopur": "A Flokkur",
+        "infobox": "<p>Nafn: TVG Xpress</p><p>Flokkur: 4 manna li\u00f0</p><p>\u00c1heitan\u00famer: 2012</p><p>Uppf\u00e6rt: 2018-06-28 08:44:10</p>",
+        "markerid": 650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.8042665,
+          65.725192
+        ]
+      },
+      "properties": {
+        "name": "Akureyrard\u00e6tur",
+        "driving_status": "driving",
+        "icon": "pin-bicycle.png",
+        "updated_at": "2018-06-28T09:58:12",
+        "hopurclass": "flokkur3",
+        "hopur": "B Flokkur",
+        "infobox": "<p>Nafn: Akureyrard\u00e6tur</p><p>Flokkur: 10 manna li\u00f0</p><p>\u00c1heitan\u00famer: 3003</p><p>Uppf\u00e6rt: 2018-06-28 09:58:12</p>",
+        "markerid": 772
+      }
+    }
+  ]
+}
